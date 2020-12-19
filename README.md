@@ -1,4 +1,4 @@
-# Netflix MacOS app
+# Netflix macOS app
 
 Automator app that opens netflix.com.
 
